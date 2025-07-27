@@ -39,4 +39,4 @@ This project gave me a hands-on experience in turning raw data into a visually i
 
 Looking forward to applying these skills in upcoming tasks and building deeper BI capabilities! 🚀
 
-#PowerBI #DataAnalytics #DashboardDesign #DataVisualization #CognifyzTechnologies #InternshipProject #BusinessIntelligence #InvestmentData #AnalyticsInternship #PowerBIDashboard #FinancialAnalytics #GoldInvestment #WomenInTech #MaleInvestors #FinanceDashboard #DAX #StudentInternship #DataStorytelling #DataDriven #BTechStudent #LuckyAggarwal #DataProjects #RealWorldData #LearningByDoing #BIInternship #DataExploration
+#PowerBI #DataAnalytics #DashboardDesign #DataVisualization #CognifyzTechnologies #InternshipProject #BusinessIntelligence #InvestmentData #AnalyticsInternship #PowerBIDashboard #FinancialAnalytics #GoldInvestment #WomenInTech #MaleInvestors #FinanceDashboard #DAX #StudentInternship #DataStorytelling #DataDriven #BTechStudent #DataProjects #RealWorldData #LearningByDoing #BIInternship #DataExploration
